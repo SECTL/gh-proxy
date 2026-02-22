@@ -1,0 +1,6 @@
+name = "gh-proxy"
+main = "worker.js"
+compatibility_date = "2026-02-22"
+
+[vars]
+# 可以在这里定义环境变量，或者在 Cloudflare Dashboard 中设置
